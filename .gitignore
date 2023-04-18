@@ -151,3 +151,5 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 Final Project/raw_data/combined-with-ids.csv
+Final Project/.vector_cache/wiki.en.vec
+Final Project/.vector_cache/wiki.en.vec.pt
